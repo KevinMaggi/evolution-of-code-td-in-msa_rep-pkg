@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/jvalue/ods,00cee1cf67a3fdeb587be8b45d3beef6df6ac4e9,148,1,68,15,test
+https://github.com/jvalue/ods,c2aa19df6fa9ca797eb7f1279dc241d4080cb4b6,142,41,689,368,refactoring microservice
+https://github.com/jvalue/ods,ad48c09c621f026e1c74bb58bc624628bc92376e,105,6,14,5,refactoring microservice
+https://github.com/jvalue/ods,b1091717a9f9266799130784216440a2ff9430a8,-96,7,71,86,refactoring microservice + test
+https://github.com/jvalue/ods,cc583c5d688299737d630fc47496f324b81b34e4,-87,9,160,152,error fixing
+https://github.com/jvalue/ods,e1438c055fc74fc5814d3ac5ef2606ff6e2d7971,-80,17,44,23,warning fixing
+https://github.com/jvalue/ods,9b810a8589d2d8ce03819c514610a3135a25fa1f,78,2,58,4,test
+https://github.com/jvalue/ods,17cb8ecaeb3ce88a79e0b344c19bb38fd5468f0e,72,4,40,18,test
+https://github.com/jvalue/ods,43844319facbd879d411471aeb87c8c19657bf72,-72,2,0,12,refactoring
+https://github.com/jvalue/ods,4a8edbd1ea8453cbca910df04e2b891e8ee28ea2,70,24,626,0,initial structure microservice

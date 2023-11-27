@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/asc-lab/micronaut-microservices-poc,0ab3b021172e40d4342ba780aad2197a5e75b348,547,80,2489,10,added microservice
+https://github.com/asc-lab/micronaut-microservices-poc,d895297ec6825849bf8fcac363784439b42f3617,482,44,2199,2,added microservice
+https://github.com/asc-lab/micronaut-microservices-poc,b4e0c2e38dfeca6e8d2d303865eff00a7e3483df,120,27,384,335,added microservice
+https://github.com/asc-lab/micronaut-microservices-poc,d2c52266f6b22ce28e2dfe3735315629bcfff3a7,-105,14,13,138,evolution microservice
+https://github.com/asc-lab/micronaut-microservices-poc,e7e3ba86a7896ba098d00d854b2b78b3c80ae696,92,20,1050,0,added microservice
+https://github.com/asc-lab/micronaut-microservices-poc,349b737455f6aefad8fcb148170cc147ed92af54,85,17,381,0,evolution microservice
+https://github.com/asc-lab/micronaut-microservices-poc,9cd7c1da7def41fbc88e9899beca5ea671e59b13,75,39,423,22,initial UI in Angular
+https://github.com/asc-lab/micronaut-microservices-poc,2d4b650e5816b1fea6bb9bb777ef1d799f84df43,-75,8,29,24,deprecations fixing
+https://github.com/asc-lab/micronaut-microservices-poc,c60e021f8a3bf73176a55c3cbf0ebd24ec397e47,72,52,2890,751,initial UI in Vuejs
+https://github.com/asc-lab/micronaut-microservices-poc,c5f1e180dcc9f363403d62ccdc192dde3cb183c0,70,13,230,7,evolution microservice

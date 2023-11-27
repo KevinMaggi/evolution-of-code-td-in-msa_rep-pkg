@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/1-Platform/one-platform,477618dc108c58241b84992671d0b0fb152eddb0,139,23,16124,1,added SPA
+https://github.com/1-Platform/one-platform,4241f4676187df80f749cfb6de41836e6dc479b3,71,17,1752,1089,evolution
+https://github.com/1-Platform/one-platform,bc3d70ee1a527e379733d1390d6d0cd9e25b1e5f,70,42,15834,0,added package
+https://github.com/1-Platform/one-platform,3e9882494e0dd761ebd6dd62bef4229acf14177a,67,59,18016,0,added SPA
+https://github.com/1-Platform/one-platform,d15e29acd9217340ab08ec7c5bede135a66c1e32,62,27,11855,958,evolution
+https://github.com/1-Platform/one-platform,eca89a96a84cb523c505599bd1e9eabeadefd376,-62,10,135,272,fixing
+https://github.com/1-Platform/one-platform,fd683c56e59845c218c0df9065a7c3a45a93e459,-60,21,2830,9304,test
+https://github.com/1-Platform/one-platform,fe3ec08c1d2429b9e6421ed7ad40f15ad09d42b6,55,53,15546,0,added SPA
+https://github.com/1-Platform/one-platform,5ea9a61541b42ca0583a1bc966adba09a74ef7ff,-55,109,17853,23134,moved SPA from angular to vuejs
+https://github.com/1-Platform/one-platform,c7677c9dd9ffc4104457e5a8af8c3811892defeb,51,60,1702,435,added SPA

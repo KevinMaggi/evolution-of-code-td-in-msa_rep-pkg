@@ -1,0 +1,12 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/OpenCodeFoundation/eSchool,d5835ca5eca40b89fd7a54c7ddb87a41189ab9a3,-75,36,0,1049,removed microservice
+https://github.com/OpenCodeFoundation/eSchool,41ff3f6ace0632fc4803226841b6d914a09a8716,65,30,898,0,added microservice
+https://github.com/OpenCodeFoundation/eSchool,dc0e8132d914f509cf4429610abb85cd62d0ce10,55,12,262,4,added gateway
+https://github.com/OpenCodeFoundation/eSchool,ffa43def1153b6adaa53011dcc69a28cc7b7980f,30,41,401,291,evolution
+https://github.com/OpenCodeFoundation/eSchool,1ca52442d9a424446781f14390e499ce6f84046a,30,60,809,1257,evolution
+https://github.com/OpenCodeFoundation/eSchool,9740132e99b6f78f09d93992f5c575e16521eedd,26,31,534,8,evolution UI
+https://github.com/OpenCodeFoundation/eSchool,0343337c04f049eed0c4f735b18a3fb83239d2df,-21,36,36,39245,substituted libraries’ file with package manager
+https://github.com/OpenCodeFoundation/eSchool,a10ad824b7ff60b038019055605f2fa056badf65,20,9,50,45,evolution microservice
+https://github.com/OpenCodeFoundation/eSchool,8b8db0ed06c13f84d035dc53ecb5f5f5bdbf14d0,20,4,68,6,refactoring
+https://github.com/OpenCodeFoundation/eSchool,a907392ba0047eadf4b943746954202435e60b79,20,6,169,0,added Docker to microservices
+https://github.com/OpenCodeFoundation/eSchool,3446715d0e2b71d627059ca5b2feb10fcce21fd9,20,3,25,13,error fixing

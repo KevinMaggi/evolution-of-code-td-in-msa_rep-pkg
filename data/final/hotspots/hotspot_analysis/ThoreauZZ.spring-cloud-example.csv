@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/ThoreauZZ/spring-cloud-example,8d72c71da75dad012ca9042711ad6dd88ed07544,3510,13,257,0,evolution
+https://github.com/ThoreauZZ/spring-cloud-example,f596edc5279c9306e23c4ecbdded520c2b2a4794,3510,13,257,0,evolution
+https://github.com/ThoreauZZ/spring-cloud-example,24a4ac99e8b7bc46d84541b2b889c920471884d9,1698,1,1,0,added module
+https://github.com/ThoreauZZ/spring-cloud-example,1ba3e35746d83472b308b2c59844c1214b88fb6d,216,46,1258,0,initial commit
+https://github.com/ThoreauZZ/spring-cloud-example,89db00d6eab6e9754e0c6b9b89703df5bb4288a8,180,51,751,295,refactoring
+https://github.com/ThoreauZZ/spring-cloud-example,1d26165f1a0cf69d073d6e00b44f6863ec4d5318,-102,84,300,349,refactoring
+https://github.com/ThoreauZZ/spring-cloud-example,b366099f44770b56618889d3cbde5d8aecc1b1cd,44,8,89,9,added microservice
+https://github.com/ThoreauZZ/spring-cloud-example,6496d0a4fc51d46ff524f907db52bbdab5e11483,-40,6,2,97,refactoring
+https://github.com/ThoreauZZ/spring-cloud-example,c2bf3139df1dac3d5b4ceb15edf7dbf942a3ced2,40,4,95,0,refactoring
+https://github.com/ThoreauZZ/spring-cloud-example,b206af82ec5b289960c55f5a87c9ab4adb2ae98d,39,28,125,109,miscellaneous

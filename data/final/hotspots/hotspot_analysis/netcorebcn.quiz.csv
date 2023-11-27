@@ -1,0 +1,12 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/netcorebcn/quiz,a0f2499792b9cb0816c8620b37879cbb1473a94b,-75,29,49,568,substituted component with library
+https://github.com/netcorebcn/quiz,c4f4bed88ed0fe6034f4dc7fd1b97bdbd35dca0c,-40,14,21,74,upgrade library
+https://github.com/netcorebcn/quiz,8645526b48e79bd24cb254d6fbe5e2531e5a89d1,31,11,363,0,added microservice
+https://github.com/netcorebcn/quiz,9a39ba506b0996ee2bf025c9ce7ccf0839c8d9ae,-21,9,6,194,updated package
+https://github.com/netcorebcn/quiz,56861be6b4c9e3cce1ed844f83bf608cbb33ef7b,-10,11,118,95,refactoring
+https://github.com/netcorebcn/quiz,20f5743b94f2b7d2a357c72a75df22c224b2f5f0,-10,15,39,115,refactoring
+https://github.com/netcorebcn/quiz,76355dd358960aeb1ea042071d681b22b299f1ed,10,9,64,27,refactoring
+https://github.com/netcorebcn/quiz,2fddec3180243f548339a61e72f27da40bc74398,-10,1,1,2,updated package
+https://github.com/netcorebcn/quiz,89b0c8494589b5ed018be805134b19bca0404204,-10,36,87,189,refactoring
+https://github.com/netcorebcn/quiz,540d41ab3ef0e6e32452701d046cc016309642ae,-10,4,88,27,evolution + test
+https://github.com/netcorebcn/quiz,57b5da87804400d508a10034ffa4649aec69fdae,10,76,445,145,refactoring

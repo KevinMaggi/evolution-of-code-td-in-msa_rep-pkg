@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/open-telemetry/opentelemetry-demo,b28cb38af2f1f1273f92a321d713e0f7706536b6,2810,201,3654,7,initial code
+https://github.com/open-telemetry/opentelemetry-demo,c623a8fbfaa426735cfa6569e9c30cc46894e53b,1548,27,15601,1249,evolution + dependencies
+https://github.com/open-telemetry/opentelemetry-demo,bc0cd67040248add9092df3f08ae07569e78e534,-585,21,197,3041,migrated microservice to other language
+https://github.com/open-telemetry/opentelemetry-demo,02cd9411ca30c5e22663edbd7fcacd89ca98b4d3,-515,10,67,2085,refactoring microservice
+https://github.com/open-telemetry/opentelemetry-demo,c8f18298bf9123642c387f517e0d8db9c7c8f60d,-396,10,191,3690,refactoring microservice
+https://github.com/open-telemetry/opentelemetry-demo,a6b6abb57de867a730b1cc1be676bef8fbfa0018,-396,13,54,3663,refactoring microservice
+https://github.com/open-telemetry/opentelemetry-demo,a1d1d7332673e4209d0dea97b7d59a0b78577d42,-396,9,35,3653,refactoring microservice
+https://github.com/open-telemetry/opentelemetry-demo,e554195878171f4482a0adb456a4ee77b80c6a44,-386,23,1894,4259,migrated microservice to other language
+https://github.com/open-telemetry/opentelemetry-demo,7c5cee825e5c52b424137bd8d75885156ada7ac9,72,14,156,55,evolution
+https://github.com/open-telemetry/opentelemetry-demo,deaf1f611f50ba6effdfc03a2ad2adb8a4595d7f,35,236,502,2727,license comments + fixing

@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/go-saas/kit,ba2d690f46a2a83d68e86bac8c1f8a84c4eea7d0,3988,29,15627,162,added microservice + evolution
+https://github.com/go-saas/kit,669adfeea7d452eac3f6bfb97f7c5882f5a3fba0,1025,101,17848,0,initial code
+https://github.com/go-saas/kit,6c4f7421f0080fbdb3d0c3ed0de9cb75c54f31dc,-797,20,343,616,deleted microservice
+https://github.com/go-saas/kit,704257c4bfc5e0b0ace9ee91e4d08b2008c38d80,731,15,2983,148,evolution
+https://github.com/go-saas/kit,f6e431d58b0a3c845c04c399de534323db23b249,643,64,2765,667,evolution
+https://github.com/go-saas/kit,82cf969e64007e3fc5086157465652c3179ece0d,629,20,7151,28,added microservices
+https://github.com/go-saas/kit,9fb9120091b4ce767b9cd89bb4d8337f697e745d,549,36,5198,1,added microservices
+https://github.com/go-saas/kit,2aec0c2b6f64d0da7ae31b442f9252fbaf86a110,467,12,5093,90,added microservice + evolution
+https://github.com/go-saas/kit,c286326f51ca7a8f90b14d91bd469c40b13e1817,414,89,4598,171,added package + evolution
+https://github.com/go-saas/kit,d9b31222ff694a78a2c69ca8257348afb93eb909,397,78,6169,63,added microservice + evolution

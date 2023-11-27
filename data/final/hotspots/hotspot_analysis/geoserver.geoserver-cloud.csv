@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/geoserver/geoserver-cloud,a0004ec827192555bcf3ef1ffd301c6a177620c7,3231,93,1670,1165,evolution
+https://github.com/geoserver/geoserver-cloud,19db6396f2932ff9e60bb9ceb0ab652cb3a4898a,2557,35,3364,1,evolution microservice
+https://github.com/geoserver/geoserver-cloud,2bcfef9f9fafbccdee0e05ee46d68aa39e8e77ba,885,1,1,1,update java from 11 to 17
+https://github.com/geoserver/geoserver-cloud,f7ee79fb0d12f464d9c9f421c3ecdb1317f92e39,723,16,348,5,evolution UI
+https://github.com/geoserver/geoserver-cloud,86fd33f3b9a2f513649a26b1799e33cdf79a8625,702,46,829,537,evolution microservice
+https://github.com/geoserver/geoserver-cloud,174b87db29c7073b61d173a2ac073d3eb2b5a640,682,156,3867,4203,refactoring dependencies
+https://github.com/geoserver/geoserver-cloud,5741d7143f88fd3b33a9b1696169df17e447deec,-680,2,19,250,test
+https://github.com/geoserver/geoserver-cloud,285b40aaa8383570307812f732bb6b995ad3c31e,-538,4,37,10,maven profile
+https://github.com/geoserver/geoserver-cloud,b047f7ce93a9db1d5a5ec264b106d855601a4f08,-537,615,317,228,project structure refactoring
+https://github.com/geoserver/geoserver-cloud,e2d5b76cf025910a54b619e2bc6979811dddffac,500,1,2096,0,evolution microservice

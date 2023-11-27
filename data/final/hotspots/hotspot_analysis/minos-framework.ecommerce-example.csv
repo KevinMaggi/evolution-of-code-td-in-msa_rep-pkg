@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/minos-framework/ecommerce-example,080ba4d230d1011cf2169a261cd683fd76505155,-75,13,78,167,configuration
+https://github.com/minos-framework/ecommerce-example,9f429e66a9e5464ca47dbedbfba85e95eebccd03,-75,13,78,167,configuration
+https://github.com/minos-framework/ecommerce-example,c572806597db5cf2f70c9e3aa23e6114a1854c20,60,13,693,0,initial gateway
+https://github.com/minos-framework/ecommerce-example,f51681faa32717f0e51114bff71c99cef4b8ad19,-60,6,89,23,test + dependencies
+https://github.com/minos-framework/ecommerce-example,54998dee4a04421976fecdee6ef1cc797c80e20c,60,13,171,31,refactoring
+https://github.com/minos-framework/ecommerce-example,57860527883a4e031dc33c4eb019433a295b58d9,60,14,170,14,splitted microservice
+https://github.com/minos-framework/ecommerce-example,592984a817a0ad7327c923b92ce7a3cbd2ecf74a,50,12,59,135,docker configuration
+https://github.com/minos-framework/ecommerce-example,fab4fbe03122e2dafda11428f52dd114d59e56cc,47,11,437,32,refactoring + test
+https://github.com/minos-framework/ecommerce-example,2b32e29153440ce60021ce4aeeb99ccaa02d740e,40,5,87,11,added microservice
+https://github.com/minos-framework/ecommerce-example,bbeba43b38d66fcddc144a1b789987ca4dd6aa06,-40,124,1682,645,refactoring structure microservices

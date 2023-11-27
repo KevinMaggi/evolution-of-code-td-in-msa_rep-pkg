@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/nashtech-garage/yas,b40a71cf56c5c17653ca87a27e246a183edde477,-304,39,718,1113,refactoring
+https://github.com/nashtech-garage/yas,fba9452ddf795469b84cdffdf494dfcd02595b7a,149,11,507,23,evolution
+https://github.com/nashtech-garage/yas,400822b12843ecd30ec5f535ad5de3dcadc259e2,120,46,1432,45,added microservice + fixing
+https://github.com/nashtech-garage/yas,9e2985042324e3be10b8ce602f2464847db98fd4,110,41,1575,277,added microservice
+https://github.com/nashtech-garage/yas,2f14180d6bd14ba4ed3b17f2e1f7c4329135d60b,106,3,174,1,test
+https://github.com/nashtech-garage/yas,3866e7bc9ec3917c551e24a773ceb7b2e96c2134,98,18,182,27,evolution
+https://github.com/nashtech-garage/yas,974e58a4464822a5a86e92289d222a99469d13e1,98,20,613,13,evolution microservice
+https://github.com/nashtech-garage/yas,be130c73afdaaa3cdd631f907333eaf079af0895,94,5,324,0,added microservice + test
+https://github.com/nashtech-garage/yas,0bf2eb2066d0304c7bea45c46c2f08199df2bf12,92,38,1341,19,added microservice
+https://github.com/nashtech-garage/yas,55b748a20c5bf83f70d52131878a5a75146809af,88,6,357,2,evolution microservice + test

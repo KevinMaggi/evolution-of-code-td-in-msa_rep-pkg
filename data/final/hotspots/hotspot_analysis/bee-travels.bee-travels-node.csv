@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/bee-travels/bee-travels-node,9a4a93fdd3fb2cd9fe4d34dc1dbb4b1baf5b899e,992,36,309,261,momentarily jaeger disabling
+https://github.com/bee-travels/bee-travels-node,699ee32c0107164d14c31a42524b799b12d9121c,-357,22,249,220,error fixing + prettification
+https://github.com/bee-travels/bee-travels-node,b6e54a1e2c0e2767600f585c31c34f2ff3e3486b,116,102,153543,109,version 2
+https://github.com/bee-travels/bee-travels-node,918e970f5d1310436934d4e17b0a19b0b0d73f87,115,57,2530,383,UI
+https://github.com/bee-travels/bee-travels-node,d72f706868458d6f62bb31147e08cf05a22a1c6f,110,15,81917,3,added microservice
+https://github.com/bee-travels/bee-travels-node,72b380b8c3e0d796dab0b981105c1237660805b8,107,132,1502,623,miscellaneous
+https://github.com/bee-travels/bee-travels-node,c9efad1b36dc7001e4e24071c4ddc781e4cdf4f5,105,9,1372,0,initial commit
+https://github.com/bee-travels/bee-travels-node,ed613564c5d9089d4dd9d877381212f7d213929e,104,26,631,119,added microservice
+https://github.com/bee-travels/bee-travels-node,8660e53295c437d8668aefcde1001223d1654061,77,20,8859,0,added microservice
+https://github.com/bee-travels/bee-travels-node,0b9c37909a9073065469d3188926bdff98bb3989,70,2,66,26,evolution microservice

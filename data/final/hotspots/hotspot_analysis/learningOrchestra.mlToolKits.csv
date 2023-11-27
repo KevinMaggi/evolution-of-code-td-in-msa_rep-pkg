@@ -1,0 +1,11 @@
+REPO,COMMIT,INTRODUCED_SQALE_INDEX,CHANGED_FILES,ADDITIONS,DELETIONS,ACTIVITY
+https://github.com/learningOrchestra/mlToolKits,50d70c83894146846cefc882e29c04efc122c428,-250,7,52,256,refactoring
+https://github.com/learningOrchestra/mlToolKits,2be757c29c4542756dc7f2ff5ff9421990ccc7a5,150,8,386,7,"initial configuration, code, files"
+https://github.com/learningOrchestra/mlToolKits,37a21aff9b9c6dea6c19c0a13893925a38c68102,130,18,849,115,added microservice + evolution
+https://github.com/learningOrchestra/mlToolKits,a4f3b14478c2aabba990808f1f03e73b8664dc70,125,6,267,0,added microservice
+https://github.com/learningOrchestra/mlToolKits,d5cf6703059e027709a7cf52ac9e4907eed5a0e2,120,1,1,1,refactoring
+https://github.com/learningOrchestra/mlToolKits,47b3cbc9c9dc4b943ba6fb154e044d6579f78509,120,6,406,1,added microservice
+https://github.com/learningOrchestra/mlToolKits,7f8bbea283bc822ccb2e11c07fc66060c27e8178,120,14,794,73,added microservice
+https://github.com/learningOrchestra/mlToolKits,09c49db9f7b8b2d69e479d369562dae6c75df7cd,-110,21,695,771,refactoring microservices
+https://github.com/learningOrchestra/mlToolKits,71addd634e8d3723d6f9507c5f8ea88b2f156e2a,100,12,127,27,evolution
+https://github.com/learningOrchestra/mlToolKits,5d9e0d1acb7cab0e82d5259cb3e2a9a7bc2819cb,80,2,26,24,refactoring

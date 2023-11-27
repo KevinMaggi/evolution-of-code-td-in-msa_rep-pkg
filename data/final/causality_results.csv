@@ -1,0 +1,10 @@
+REPO,CAUSALITY,P_VALUE
+1-Platform.one-platform,TRUE,1.5466225626732596e-9
+OpenCodeFoundation.eSchool,FALSE,0.21985930201688694
+ThoreauZZ.spring-cloud-example,FALSE,0.5536207464381063
+geoserver.geoserver-cloud,TRUE,7.960675661101914e-5
+jvalue.ods,FALSE,0.8836190976640002
+learningOrchestra.mlToolKits,TRUE,0.013431639774042499
+minos-framework.ecommerce-example,FALSE,0.4015385191380753
+nashtech-garage.yas,FALSE,0.9074489607988868
+open-telemetry.opentelemetry-demo,TRUE,1.0751789569334148e-17
